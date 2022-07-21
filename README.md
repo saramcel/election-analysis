@@ -16,27 +16,24 @@ A Colorado Board of Elections employee wishes to accomplish the following electi
 ## Summary
 The analysis of the election show (also find this in the output txt file): 
 
-Election Results
----------------------------
-Total Votes: 369,711
----------------------------
+```
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 -------------------------
-Winner: Raymon Anthony Doane
-Winning Vote Count: 11,606
-Winning Percentage: 3.1%
--------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+```
+The winner is Diana DeGette with 73.8% of the popular vote. While not a "landslide," she won by a good margin!
 
-Deliverable 3: Written Analysis of the Election Audit (20 points)
-Deliverable 3 Instructions
-Use your repository README to write your analysis of Deliverables 1 and 2. The analysis should contain the following:
+# Election Challenge
 
-Overview of Election Audit: Explain the purpose of this election audit analysis.
+## Overview of Election Audit
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+The purpose of the election audit was to determine a winner among the candidates and to determine voter turnout among the counties involved in the election. 
 
+## Election-Audit Results
 How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 Which county had the largest number of votes?
