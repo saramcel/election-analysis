@@ -50,16 +50,7 @@ The purpose of the election audit was to determine a winner among the candidates
   ```
   Largest County Turnout: Denver
   ```
-  
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
-
+ 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   ```
   Charles Casper Stockham: 23.0% (85,213)
